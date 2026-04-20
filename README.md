@@ -62,7 +62,7 @@ IoT Sensors → ThingSpeak Cloud → Flutter App → Relay Control
 ---
 
 ## 📸 Screenshots
-https://github.com/Kanchana-86/Smart-Soil-Monitoring/blob/main/Dashboard.png
+https://github.com/Kanchana-86/Smart-Soil-Monitoring/blob/main/Dashboard.jpg
 
 ---
 
